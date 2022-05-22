@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @datvu1907
-- 👀 I’m interested in Mobile developing
-- 🌱 I’m currently learning flutter
+- 👀 I’m currently a mobile developer and on a way to become blockchain developer
+- 🌱 I’m interested in Blockchain 
 - 📫 How to reach me: vicnguyenvuong@gmail.com
 
 <!---
